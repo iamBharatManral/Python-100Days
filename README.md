@@ -30,3 +30,6 @@
 * https://replit.com/@iambharatmanral/day-5-2-exercise#main.py
 * https://replit.com/@iambharatmanral/day-5-3-exercise#main.py
 * https://replit.com/@iambharatmanral/day-5-4-exercise#main.py
+
+##**Day 6: Exercises:**
+* No exercises & project

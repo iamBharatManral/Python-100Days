@@ -1,0 +1,1 @@
+print("There are no excerises and final project in Day 6")
