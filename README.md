@@ -25,3 +25,8 @@
 * https://replit.com/@iambharatmanral/day-4-2-exercise#main.py
 * https://replit.com/@iambharatmanral/day-4-3-exercise#main.py
 
+##**Day 5: Exercises:**
+* https://replit.com/@iambharatmanral/day-5-1-exercise#main.py
+* https://replit.com/@iambharatmanral/day-5-2-exercise#main.py
+* https://replit.com/@iambharatmanral/day-5-3-exercise#main.py
+* https://replit.com/@iambharatmanral/day-5-4-exercise#main.py
