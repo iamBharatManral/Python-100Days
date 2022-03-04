@@ -33,3 +33,6 @@
 
 ##**Day 6: Exercises:**
 * No exercises & project
+
+##**Day 7: Exercises:**
+* No exercises
