@@ -36,3 +36,7 @@
 
 ##**Day 7: Exercises:**
 * No exercises
+
+##**Day 8: Exercises:**
+* https://replit.com/@iambharatmanral/day-8-1-exercise#main.py
+* https://replit.com/@iambharatmanral/day-8-2-exercise#main.py
