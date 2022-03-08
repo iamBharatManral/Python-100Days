@@ -40,3 +40,7 @@
 ##**Day 8: Exercises:**
 * https://replit.com/@iambharatmanral/day-8-1-exercise#main.py
 * https://replit.com/@iambharatmanral/day-8-2-exercise#main.py
+
+##**Day 9: Exercises:**
+* https://replit.com/@iambharatmanral/day-9-1-exercise#main.py
+* https://replit.com/@iambharatmanral/day-9-2-exercise#main.py
